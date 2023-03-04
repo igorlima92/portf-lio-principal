@@ -1,4 +1,4 @@
-# portf-lio-principal
+# portflio-principal
 Portfólio Igor
 
 Portfólio desenvolvido durante período de estudo sobre HTML, CSS e JS.
